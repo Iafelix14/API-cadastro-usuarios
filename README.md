@@ -32,53 +32,8 @@
 
 ---
 
-
-
-## 📂 Estrutura do Projeto
-
-
-
-```bash
-
-src/
-
-├── main/
-
-│   ├── java/
-
-│   │   └── com/iafelix14/apicadastro/
-
-│   │       ├── controller/
-
-│   │       │   └── UserController.java
-
-│   │       ├── model/
-
-│   │       │   └── User.java
-
-│   │       ├── repository/
-
-│   │       │   └── UserRepository.java
-
-│   │       └── service/
-
-│   │           └── UserService.java
-
-│   └── resources/
-
-│       └── application.properties
-
-├── test/
-
-│   └── java/
-
-│       └── ... (testes da API)
-└── pom.xml
-
-
 ## Endpoints da API
 
-```http
 POST /users → Criar um novo usuário
 GET /users → Listar todos os usuários
 GET /users/{id} → Buscar usuário por ID
@@ -88,6 +43,7 @@ DELETE /users/{id} → Deletar usuário por ID
 
 ## Minha jornada
 
-Quer saber um pouco mais sobre as dificuldades e aprendizados nesse projeto
+Quer saber um pouco mais sobre as dificuldades e aprendizados nesse projeto?
+(EXPERIENCE.md) 
 
 
