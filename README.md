@@ -43,7 +43,7 @@ DELETE /users/{id} → Deletar usuário por ID
 
 ## Minha jornada
 
-Quer saber um pouco mais sobre as dificuldades e aprendizados nesse projeto?
-[texto clicave](EXPERIENCE.md) 
+Como todo projeto, este teve suas dificuldades e aprendizados, quer entender mais sobre? Aqui esta minha
+[experiência](EXPERIENCE.md) 
 
 
