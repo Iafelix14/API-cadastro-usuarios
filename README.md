@@ -12,7 +12,6 @@
 ---
 
 
-
 ## Stacks Utilizadas
 
 
@@ -35,15 +34,19 @@
 ## Endpoints da API
 
 POST /users → Criar um novo usuário
+
 GET /users → Listar todos os usuários
+
 GET /users/{id} → Buscar usuário por ID
+
 PUT /users/{id} → Atualizar usuário por ID
+
 DELETE /users/{id} → Deletar usuário por ID
 
 
 ## Minha jornada
 
-Como todo projeto, este teve suas dificuldades e aprendizados, quer entender mais sobre? Aqui esta minha
+Como todo projeto, este teve suas dificuldades e aprendizados, quer entender mais sobre? Aqui está minha
 [experiência](EXPERIENCE.md) 
 
 
